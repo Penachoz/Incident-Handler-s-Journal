@@ -1,21 +1,19 @@
-# Incident Handler's Journal  
+### **Fecha:** 2023-10-15  
+### **Entrada:** #1  
 
-### **Date:** [YYYY-MM-DD]  
-### **Entry:** [Number]  
+### **Descripción:**  
+Ataque de ransomware en clínica de salud mediante phishing. Archivos médicos cifrados y rescate demandado.  
 
-### **Description:**  
-[Briefly describe the incident.]  
+### **Herramientas Usadas:**  
+- Microsoft Defender for Endpoint  
+- Backup en la nube (no comprometido)  
 
-### **Tools Used:**  
-- [Tool 1]  
-- [Tool 2]  
+### **5 W's:**  
+- **Who:** Hackers éticamente cuestionables.  
+- **What:** Ransomware (Ryuk variant).  
+- **When:** Martes, 9:00 a.m.  
+- **Where:** Clínica en EE.UU.  
+- **Why:** Falta de conciencia en phishing.  
 
-### **The 5 W's:**  
-- **Who:** [Attacker/Threat Actor]  
-- **What:** [Type of Attack]  
-- **When:** [Date/Time]  
-- **Where:** [Affected Systems/Location]  
-- **Why:** [Motive/Vulnerability Exploited]  
-
-### **Additional Notes:**  
-[Lessons learned, response actions, follow-up steps.]  
+### **Notas Adicionales:**  
+"Capacitación urgente en phishing y prueba de restauración de backups."  
